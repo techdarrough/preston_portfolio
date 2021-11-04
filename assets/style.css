@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+.intro {
+    color: white;
+    text-align: center;
+    display: block;
+    border: 2px solid white;
+}
+.name {
+    text-emphasis: bold;
+
+}
+.linkedin_photo {
+    height: 200px;
+    width: 200px;
+}
+.main_body {
+    color: white;
+}
+li {
+    font-style: italic;
+    
+}
