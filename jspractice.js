@@ -58,8 +58,9 @@ break;
 
 let time = 12
 switch (time){
-    case 8 
-    console.log("eat breakfast")
+    case 8 :
+    console.log("eat breakfast");
+    break;
 }
 
 
