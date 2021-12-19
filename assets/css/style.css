@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(70, 65, 65);
+    background-color: #D4A373;
 }
 .intro {
-    color: white;
+    color: FEFAE0;
     text-align: center;
     display: block;
     border: 2px solid white;
@@ -16,12 +16,11 @@ body {
     width: 200px;
 }
 .main_body {
-    color: white;
+    color: FEFAE0;
 }
-li {
-    font-style: italic;
-    
-}
-#navBar {
+
+
+nav {
+    display: inline-block;
     
 }
