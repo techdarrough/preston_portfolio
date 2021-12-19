@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(70, 65, 65);
 }
 .intro {
     color: white;
@@ -20,5 +20,8 @@ body {
 }
 li {
     font-style: italic;
+    
+}
+#navBar {
     
 }

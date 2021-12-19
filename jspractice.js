@@ -9,7 +9,7 @@ mutliline comment
 // VAR are just containers for values 
 // var let conts 
 
-var x = 5
+// var x = 5
 
 // declares x as var 
 
